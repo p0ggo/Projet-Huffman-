@@ -1,3 +1,8 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <math.h>
+#include "fonctions.h"
+
 //function that looks if a character is already in the list, return 1 if the element is in the list and 0 otherwise
 int search_char(char letter, Element* list){
     while (list != NULL)
