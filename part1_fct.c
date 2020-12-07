@@ -5,7 +5,7 @@
 
 
 void transfo_bin(char *filename){
-  return 0; 
+  
 }
 
 
