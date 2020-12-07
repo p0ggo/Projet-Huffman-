@@ -7,10 +7,10 @@
 int main()
 {
 
-    partA("input.txt");
+    transfo_bin("input.txt");
 
     int a ;
-    a = partB("input.txt");
+    a = count_char("input.txt");
     printf("%d\n", a) ;
 
     /*test transfo ascii
