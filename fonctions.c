@@ -19,7 +19,7 @@ void transfo_Ascii(char letter, char* code_bin){
 }
 
 // transforme en fichier .txt qui a des lettres en .txt binaire
-void partA(char *filename){
+void transfo_bin(char *filename){
 
     FILE *source = NULL;
     FILE *end = NULL;
@@ -52,7 +52,7 @@ void partA(char *filename){
 
 
 // compte le nb de caractères d'un fichier texte
-int partB(char *filename){
+int count_char(char *filename){
 
     FILE * source = NULL;
     source=fopen(filename, "r");
