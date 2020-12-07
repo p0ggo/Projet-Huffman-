@@ -1,6 +1,5 @@
 void transfo_Ascii(char letter, char* code_bin);
 
-void partA(char *filename) ;
+void transfo_bin(char *filename); 
 
-int partB(char *filename);
-
+int count_char(char *filename); 
