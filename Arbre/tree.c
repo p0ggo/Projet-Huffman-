@@ -38,7 +38,7 @@ Node*AVL_creation(char list_char_char[256], char*list_char_code[256], int start,
     // copie bloc memoire source vers destination
     memmove(f_node-> huffman_code, list_char_code[middle], sizeof(char*)256);
     f_node->right=AVL_creation(list_char_char,list_char_code,middle+1,end);
-    f_node->left=AVL_creation(list_char_char,list_char_code,start,mid-1,end);
+    f_node->left=AVL_creation(list_char_char,list_char_code,start,middle-1,end);
     return f_node;
 }
 
@@ -72,7 +72,7 @@ void min_h(Tree*tree,int index){
     if ((right<tree->size) && tree-> array_node[right]->occur < tree-<arrayf_node[smallest]->occur){
         small=right;
     }
-    if ((left<tree->size) && tree-> array_node[left]->occur<tree-<arrayf_node[smallest]->occur){
+    if ((left<tree->size) && tree-> array_node[left]->occur < tree-<arrayf_node[smallest]->occur){
         small=left;
     }
     if (small!=index){
