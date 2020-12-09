@@ -12,6 +12,8 @@ void transfo_Ascii(char letter, char* code_bin){
             // pow (a,b )=a^b
             code=code -pow(2,i) ;
             code_bin[7-i]= '1' ;
+        } else {
+            code_bin[7-i]= '0' ;
         }
         i -- ;
     }
