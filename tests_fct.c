@@ -1,3 +1,9 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <math.h>
+#include "part1_fonctions.h"
+#include "part2_fonctions.h"
+#include "part3_fonctions.h"
 
 void afficherListe (Element * liste){
 
