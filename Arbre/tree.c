@@ -15,7 +15,7 @@ int leaf(Node *f_node) {
 
 void tree_leaf_path(Node*f_node, int array[], int top){
     if (f_node->left){
-        arr[top]=0;
+        array[top]=0;
         tree_leaf_path(f_node->left,array,top+1);
     }
     if(f_node->right){
