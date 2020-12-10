@@ -27,6 +27,7 @@ void tree_leaf_path(Node*f_node, int array[], int top){
     }
 }
 
+// fonction de la partie 3
 Node*AVL_creation(char list_char_char[256], char*list_char_code[256], int start,int end){
     if (start > end){
         return NULL;
