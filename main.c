@@ -20,6 +20,12 @@ int main (){
     int a ;
     a = count_char("input.txt");
     printf("%d\n", a) ;
+  
+    // test fct C 
+    Element* maliste = NULL ;
+    maliste= create_list_from_txt("input.txt");
+    afficherListe (maliste);
+    free(maliste);
 
 
 
