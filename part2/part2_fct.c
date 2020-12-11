@@ -20,3 +20,7 @@ void w_huffman_code (char* namefile){
   
 }
 
+void compress_txt(){
+
+}
+
