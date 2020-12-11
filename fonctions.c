@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-#include "fonctions.h"
 
 // transforme un caractère en binaire
 void transfo_Ascii(char letter, char* code_bin){
