@@ -6,7 +6,7 @@ GUIDE UTILISATEUR
 
 (n'ayant pas pu terminer notre projet dans la totalité voici une ébauche de ce à quoi aurait pu ressembler le guide utilisateur)
 
-[Afin d'executer le logiciel il faut simplement double cliquer sur le Huffcomp.exe]
+[Afin d'exécuter le logiciel il faut simplement double-cliquer sur le fichier Huffcomp.exe]
 
 [2 options vont alors se présenter à vous dans le menu de démarrage]
 
@@ -17,13 +17,13 @@ GUIDE UTILISATEUR
 
 ----------------------------
 
-[Séléctionner une des deux options pour réaliser la tâche demandé, la console va ensuite vous afficher ceci :]
+[Sélectionner une des deux options pour réaliser la tâche demandée, la console va ensuite vous afficher ceci :]
 
------------------------------------
+----------------------------------------------
 
-enter l'url de votre fichier.txt :
+	enter l'url de votre fichier.txt :
 
------------------------------------
+----------------------------------------------
 
 [Il vous faudra entrer le lien de votre fichier .txt, exemple : 
 C:\Users\Username\Files\input.txt]
@@ -52,7 +52,7 @@ C:\Users\Username\Files\input.txt]
 	
 ---------------------------------------------- 
 
-[En cas de réussite de la compression, le logiciel va créer un nouveau fichier .txt comportant votre texte compréssé et ira le deposer dans le dossier "COMP", cette écran s'affichera à vous :]
+[En cas de réussite de la compression, le logiciel va créer un nouveau fichier .txt comportant votre texte compressé et ira le déposer dans le dossier "COMP", cet écran s'affichera à vous :]
 
 ----------------------------------------------
 
