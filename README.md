@@ -4,7 +4,9 @@ GUIDE UTILISATEUR
 
 ////////////////////
 
-Afin d'executer le logiciel il faut simplement double cliquer sur le Huffcomp.exe
+(n'ayant pas pu terminer notre projet dans la totalité voici une ébauche de ce à quoi aurait pu ressembler le guide utilisateur)
+
+[Afin d'executer le logiciel il faut simplement double cliquer sur le Huffcomp.exe]
 
 [2 options vont alors se présenter à vous dans le menu de démarrage]
 
@@ -40,4 +42,31 @@ C:\Users\Username\Files\input.txt]
 
 	Fichier invalide ou introuvable 
 
+---------------------------------------------- 
+
+[ou, dans le cas ou le fichier comporte des caractères invalides : ]
+
 ----------------------------------------------
+
+	Compression impossible
+	
+---------------------------------------------- 
+
+[En cas de réussite de la compression, le logiciel va créer un nouveau fichier .txt comportant votre texte compréssé et ira le deposer dans le dossier "COMP", cette écran s'affichera à vous :]
+
+----------------------------------------------
+
+	Compression terminé 
+	
+----------------------------------------------
+
+////////////////////
+
+	FIN
+
+////////////////////
+
+
+
+
+
