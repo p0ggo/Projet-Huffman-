@@ -8,10 +8,18 @@
 #include "random.h"
 #include "tree.h"
 
+#include <math.h>
+#include "fonctions.h"
+
 #define CHARMAX 1000
 
-
 int main (){
+  
+    transfo_bin("input.txt");
+
+    int a ;
+    a = count_char("input.txt");
+    printf("%d\n", a) ;
 
 
 
