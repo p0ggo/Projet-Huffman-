@@ -19,6 +19,7 @@ void sort_tab_node ( Node tab_noeud []) {
 }
 
 Node* treehuffman (Node tab_noeud []){
+    return NULL ; 
   
 }
 
