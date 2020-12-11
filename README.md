@@ -21,7 +21,7 @@ GUIDE UTILISATEUR
 
 ----------------------------------------------
 
-	enter l'url de votre fichier.txt :
+	Enter l'url de votre fichier.txt :
 
 ----------------------------------------------
 
