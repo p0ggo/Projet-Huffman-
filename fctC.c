@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <math.h>
 #include <string.h>
+#include "struct.h"
 
 //function that looks if a character is already in the list, return 1 if the element is in the list and 0 otherwise
 Element* search_char(char letter, Element* liste){
