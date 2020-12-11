@@ -57,3 +57,13 @@ Element* create_list_from_txt(char *filename){
     }
 }
 
+void afficherListe (Element * liste){
+    Element * temp ;
+    temp = liste ;
+    while (temp != NULL){
+        printf("%c, ", temp->character);
+        printf("%d \n", temp->occ) ;
+        temp = temp->next ;
+    }
+}
+
