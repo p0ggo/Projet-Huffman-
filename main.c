@@ -2,13 +2,13 @@
 #include <stdlib.h>
 #include <string.h>
 #include <errno.h>
-#include "read_txt.h"
-#include "write_txt.h"
+#include "Read/read_txt.h"
+#include "Writing/write_txt.h"
 #include "struct.h"
-#include "random.h"
-#include "tree.h"
-#include "display_fct.h "
-#include "list.h"
+#include "Random/random.h"
+#include "Arbre/tree.h"
+#include "Affichage/display_fct.h "
+#include "Liste/list.h"
 
 
 #include <math.h>
