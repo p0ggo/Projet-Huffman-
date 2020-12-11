@@ -7,9 +7,13 @@
 #include "struct.h"
 #include "random.h"
 #include "tree.h"
+#include "display_fct.h "
+#include "list.h"
+
 
 #include <math.h>
 #include "fonctions.h"
+#include "fctC.h"
 
 #define CHARMAX 1000
 
