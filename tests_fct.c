@@ -23,7 +23,6 @@ void test_fct(){
   
   //test fct B
   int a ;
-  printf("debut\n");
   a = count_char("input.txt");
   printf("%d\n", a) ;
 
