@@ -32,6 +32,18 @@ void test_fct(){
   maliste= create_list_from_txt("input.txt");
   afficherListe (maliste);
   free(maliste);
+    
+  // test fct D 
+   if (node ==NULL){
+      return NULL;
+    }
+    else {
+        display_tree(node->left);
+        display_tree(node->right);
+        printf("%c a %d occurences", node->chara, node->occur);
+    }
+    
+    // test fct E
   
   
   
