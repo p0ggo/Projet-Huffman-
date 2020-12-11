@@ -48,7 +48,7 @@ Element* create_list_from_txt(char *filename){
                 }
             }
 
-        }while (letter != '-');
+        }while (letter != EOF);
         fclose(source);
         return (firstElement);
     }
