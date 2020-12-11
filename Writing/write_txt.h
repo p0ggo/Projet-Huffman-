@@ -1,5 +1,5 @@
 /**
- * @file write_txt.c
+ * @file write_txt.h
  * @author test
  * @brief wrinting 
  * @version 0.1
